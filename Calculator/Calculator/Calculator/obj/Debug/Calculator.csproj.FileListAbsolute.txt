@@ -1,0 +1,16 @@
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Calculator.dll
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\MainPage.xaml.g.cs
+E:\Xamarin Practice\XamUni\Xam130Practice\XAM130Exercise1\Calculator\Calculator\obj\Debug\XamlC.stamp
