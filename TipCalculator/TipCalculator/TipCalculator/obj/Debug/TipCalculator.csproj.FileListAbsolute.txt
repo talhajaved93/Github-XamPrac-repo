@@ -1,0 +1,36 @@
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.xml
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\StandardTipPage.xaml.g.cs
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\CustomTipPage.xaml.g.cs
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\App.xaml.g.cs
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\XamlC.stamp
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CopyComplete
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\StandardTipPage.xaml.g.cs
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\CustomTipPage.xaml.g.cs
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\App.xaml.g.cs
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\XamlC.stamp
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CopyComplete
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

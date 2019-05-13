@@ -1,0 +1,243 @@
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.apk
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid-Signed.apk
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\FormsViewGroup.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\FormsViewGroup.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.nuget.stamp
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.csprojAssemblyReference.cache
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\libraryimports.cache.stamp
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\res.flag
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.csproj.CoreCompileInputs.cache
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\XamlC.stamp
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.csproj.CopyComplete
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.dll
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\bin\TipCalculator.Droid.apk
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable\icon.png
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable-hdpi\icon.png
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable-xhdpi\icon.png
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable-xxhdpi\icon.png
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\R.cs.flag
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\R.txt
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\uploadflags.txt
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Mono.Android.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\mscorlib.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Xml.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Xml.Linq.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Net.Http.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Runtime.Serialization.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\Mono.Security.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Data.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Numerics.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Transactions.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.IO.Compression.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\System.Web.Services.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\FormsViewGroup.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\mscorlib.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Xml.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Data.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.dll.mdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\TipCalculator.Droid.dll.mdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\TipCalculator.dll.mdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.dll.mdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\TipCalculator.dll.mdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\TipCalculator.Droid.dll.mdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\FormsViewGroup.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\mscorlib.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Data.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Xml.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\C# Programs\Xamarin\XAM140\XAM140-master\Exercise 1\Start\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.apk
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid-Signed.apk
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\FormsViewGroup.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Core.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\FormsViewGroup.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Core.xml
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.nuget.stamp
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.csprojAssemblyReference.cache
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\libraryimports.cache.stamp
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\res.flag
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.csproj.CoreCompileInputs.cache
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\XamlC.stamp
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.csproj.CopyComplete
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\TipCalculator.Droid.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\bin\TipCalculator.Droid.apk
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable\icon.png
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable-hdpi\icon.png
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable-xhdpi\icon.png
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\res\drawable-xxhdpi\icon.png
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\R.cs.flag
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\R.txt
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\uploadflags.txt
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Mono.Android.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\Mono.Security.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\mscorlib.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.ComponentModel.Composition.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Data.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.IO.Compression.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Net.Http.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Numerics.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Runtime.Serialization.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.ServiceModel.Internals.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Transactions.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Web.Services.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Xml.Linq.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\System.Xml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\TipCalculator.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\TipCalculator.Droid.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\FormsViewGroup.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Mono.Android.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Mono.Security.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\mscorlib.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Data.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.IO.Compression.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Net.Http.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Numerics.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Transactions.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Web.Services.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\System.Xml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\TipCalculator.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\TipCalculator.Droid.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\FormsViewGroup.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\mscorlib.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Data.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\System.Xml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.Droid.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\bin\Debug\TipCalculator.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\TipCalculator.Droid.dll.mdb
+E:\Xamarin Practice\XamUni\Xam140\Exercise2\TipCalculator\TipCalculator.Droid\obj\Debug\81\linksrc\TipCalculator.dll.mdb
